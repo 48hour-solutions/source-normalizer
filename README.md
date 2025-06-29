@@ -1,2 +1,5 @@
-# source-normalizer
-FOSS AI Powered Java Source "Cleanup" Tool - Built by Firebase Studio
+# Firebase Studio
+
+This is a NextJS starter in Firebase Studio.
+
+To get started, take a look at src/app/page.tsx.
